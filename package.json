@@ -46,6 +46,12 @@
     "affinity-engine style"
   ],
   "dependencies": {
+    "affinity-engine-style-base": "git+https://github.com/affinity-engine/affinity-engine-style-base.git",
+    "affinity-engine-style-block": "git+https://github.com/affinity-engine/affinity-engine-style-block.git",
+    "affinity-engine-style-coastal": "git+https://github.com/affinity-engine/affinity-engine-style-coastal.git",
+    "affinity-engine-style-full": "git+https://github.com/affinity-engine/affinity-engine-style-full.git",
+    "affinity-engine-style-paper": "git+https://github.com/affinity-engine/affinity-engine-style-paper.git",
+    "affinity-engine-style-transparent": "git+https://github.com/affinity-engine/affinity-engine-style-transparent.git",
     "ember-cli-babel": "^5.1.6"
   },
   "ember-addon": {
