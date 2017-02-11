@@ -1,6 +1,6 @@
 {
   "name": "affinity-engine-styles-bundle",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "The default blueprint for ember-cli addons.",
   "directories": {
     "doc": "doc",
@@ -18,7 +18,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "affinity-engine": "git+https://github.com/affinity-engine/affinity-engine.git",
+    "affinity-engine": "^0.1.0",
     "broccoli-asset-rev": "^2.4.2",
     "ember-ajax": "^2.0.1",
     "ember-cli": "2.6.3",
@@ -46,12 +46,12 @@
     "affinity-engine style"
   ],
   "dependencies": {
-    "affinity-engine-style-base": "git+https://github.com/affinity-engine/affinity-engine-style-base.git",
-    "affinity-engine-style-block": "git+https://github.com/affinity-engine/affinity-engine-style-block.git",
-    "affinity-engine-style-coastal": "git+https://github.com/affinity-engine/affinity-engine-style-coastal.git",
-    "affinity-engine-style-full": "git+https://github.com/affinity-engine/affinity-engine-style-full.git",
-    "affinity-engine-style-paper": "git+https://github.com/affinity-engine/affinity-engine-style-paper.git",
-    "affinity-engine-style-transparent": "git+https://github.com/affinity-engine/affinity-engine-style-transparent.git",
+    "affinity-engine-style-base": "^0.1.0",
+    "affinity-engine-style-block": "^0.1.0",
+    "affinity-engine-style-coastal": "^0.1.0",
+    "affinity-engine-style-full": "^0.1.0",
+    "affinity-engine-style-paper": "^0.1.0",
+    "affinity-engine-style-transparent": "^0.1.0",
     "ember-cli-babel": "^5.1.6"
   },
   "ember-addon": {
