@@ -1,6 +1,6 @@
 {
   "name": "affinity-engine-style-bundle",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Bundle together the core Affinity Engine styles",
   "keywords": [
     "ember-addon",
