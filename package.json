@@ -1,6 +1,6 @@
 {
   "name": "affinity-engine-style-bundle",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Bundle together the core Affinity Engine styles",
   "keywords": [
     "ember-addon",
@@ -22,6 +22,7 @@
   "dependencies": {
     "affinity-engine-style-base": "^0.2.5",
     "affinity-engine-style-block": "^0.2.5",
+    "affinity-engine-style-caption": "^0.2.6",
     "affinity-engine-style-coastal": "^0.2.5",
     "affinity-engine-style-full": "^0.2.5",
     "affinity-engine-style-paper": "^0.2.5",
