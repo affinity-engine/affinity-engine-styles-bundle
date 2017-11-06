@@ -1,6 +1,6 @@
 {
   "name": "affinity-engine-style-bundle",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "Bundle together the core Affinity Engine styles",
   "keywords": [
     "ember-addon",
@@ -56,6 +56,7 @@
   },
   "ember-addon": {
     "configPath": "tests/dummy/config",
+    "demoURL": "http://www.affinityengine.org/#/api/styles",
     "after": [
       "affinity-engine-style-base"
     ]
